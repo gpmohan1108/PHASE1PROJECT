@@ -1,0 +1,15 @@
+C:\Users\Mohan g p\C#\Phase1project\bin\Debug\net6.0\Phase1project.exe
+C:\Users\Mohan g p\C#\Phase1project\bin\Debug\net6.0\Phase1project.deps.json
+C:\Users\Mohan g p\C#\Phase1project\bin\Debug\net6.0\Phase1project.runtimeconfig.json
+C:\Users\Mohan g p\C#\Phase1project\bin\Debug\net6.0\Phase1project.dll
+C:\Users\Mohan g p\C#\Phase1project\bin\Debug\net6.0\Phase1project.pdb
+C:\Users\Mohan g p\C#\Phase1project\obj\Debug\net6.0\Phase1project.csproj.AssemblyReference.cache
+C:\Users\Mohan g p\C#\Phase1project\obj\Debug\net6.0\Phase1project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohan g p\C#\Phase1project\obj\Debug\net6.0\Phase1project.AssemblyInfoInputs.cache
+C:\Users\Mohan g p\C#\Phase1project\obj\Debug\net6.0\Phase1project.AssemblyInfo.cs
+C:\Users\Mohan g p\C#\Phase1project\obj\Debug\net6.0\Phase1project.csproj.CoreCompileInputs.cache
+C:\Users\Mohan g p\C#\Phase1project\obj\Debug\net6.0\Phase1project.dll
+C:\Users\Mohan g p\C#\Phase1project\obj\Debug\net6.0\refint\Phase1project.dll
+C:\Users\Mohan g p\C#\Phase1project\obj\Debug\net6.0\Phase1project.pdb
+C:\Users\Mohan g p\C#\Phase1project\obj\Debug\net6.0\Phase1project.genruntimeconfig.cache
+C:\Users\Mohan g p\C#\Phase1project\obj\Debug\net6.0\ref\Phase1project.dll
