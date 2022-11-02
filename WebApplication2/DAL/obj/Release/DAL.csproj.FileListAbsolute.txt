@@ -1,0 +1,9 @@
+C:\Users\Mohan g p\Downloads\projects_simplilearn-main\projects_simplilearn-main\WebApplication2\DAL\bin\Release\DAL.dll
+C:\Users\Mohan g p\Downloads\projects_simplilearn-main\projects_simplilearn-main\WebApplication2\DAL\bin\Release\DAL.pdb
+C:\Users\Mohan g p\Downloads\projects_simplilearn-main\projects_simplilearn-main\WebApplication2\DAL\bin\Release\BAL.dll
+C:\Users\Mohan g p\Downloads\projects_simplilearn-main\projects_simplilearn-main\WebApplication2\DAL\bin\Release\BAL.pdb
+C:\Users\Mohan g p\Downloads\projects_simplilearn-main\projects_simplilearn-main\WebApplication2\DAL\obj\Release\DAL.csproj.AssemblyReference.cache
+C:\Users\Mohan g p\Downloads\projects_simplilearn-main\projects_simplilearn-main\WebApplication2\DAL\obj\Release\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Mohan g p\Downloads\projects_simplilearn-main\projects_simplilearn-main\WebApplication2\DAL\obj\Release\DAL.csproj.CopyComplete
+C:\Users\Mohan g p\Downloads\projects_simplilearn-main\projects_simplilearn-main\WebApplication2\DAL\obj\Release\DAL.dll
+C:\Users\Mohan g p\Downloads\projects_simplilearn-main\projects_simplilearn-main\WebApplication2\DAL\obj\Release\DAL.pdb
