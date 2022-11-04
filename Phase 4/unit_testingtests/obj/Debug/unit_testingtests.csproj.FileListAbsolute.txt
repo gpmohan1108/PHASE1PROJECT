@@ -1,0 +1,17 @@
+C:\Users\Mohan g p\C#\unit_testingtests\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\Mohan g p\C#\unit_testingtests\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\Mohan g p\C#\unit_testingtests\bin\Debug\nunit.engine.dll
+C:\Users\Mohan g p\C#\unit_testingtests\bin\Debug\nunit.engine.api.dll
+C:\Users\Mohan g p\C#\unit_testingtests\bin\Debug\nunit.engine.core.dll
+C:\Users\Mohan g p\C#\unit_testingtests\bin\Debug\testcentric.engine.metadata.dll
+C:\Users\Mohan g p\C#\unit_testingtests\bin\Debug\unit_testingtests.dll
+C:\Users\Mohan g p\C#\unit_testingtests\bin\Debug\unit_testingtests.pdb
+C:\Users\Mohan g p\C#\unit_testingtests\bin\Debug\nunit.framework.dll
+C:\Users\Mohan g p\C#\unit_testingtests\bin\Debug\unit_test.dll
+C:\Users\Mohan g p\C#\unit_testingtests\bin\Debug\unit_test.pdb
+C:\Users\Mohan g p\C#\unit_testingtests\bin\Debug\nunit.framework.xml
+C:\Users\Mohan g p\C#\unit_testingtests\obj\Debug\unit_testingtests.csproj.AssemblyReference.cache
+C:\Users\Mohan g p\C#\unit_testingtests\obj\Debug\unit_testingtests.csproj.CoreCompileInputs.cache
+C:\Users\Mohan g p\C#\unit_testingtests\obj\Debug\unit_testingtests.csproj.CopyComplete
+C:\Users\Mohan g p\C#\unit_testingtests\obj\Debug\unit_testingtests.dll
+C:\Users\Mohan g p\C#\unit_testingtests\obj\Debug\unit_testingtests.pdb

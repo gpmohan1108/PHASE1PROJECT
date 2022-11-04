@@ -1,0 +1,6 @@
+C:\Users\Mohan g p\C#\unit_test\bin\Debug\unit_test.dll
+C:\Users\Mohan g p\C#\unit_test\bin\Debug\unit_test.pdb
+C:\Users\Mohan g p\C#\unit_test\obj\Debug\unit_test.csproj.AssemblyReference.cache
+C:\Users\Mohan g p\C#\unit_test\obj\Debug\unit_test.csproj.CoreCompileInputs.cache
+C:\Users\Mohan g p\C#\unit_test\obj\Debug\unit_test.dll
+C:\Users\Mohan g p\C#\unit_test\obj\Debug\unit_test.pdb
